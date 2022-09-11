@@ -160,6 +160,11 @@ const users = [
         image: '/img/vade_mecum_shelf_logo.png',
         infoLink: 'https://github.com/tonton-pixel/vade-mecum-shelf/',
     },
+    {
+        caption: '陆修远',
+        image: '/img/khan-academy.png',
+        infoLink: 'https://github.com/Luxiuyuan2013',
+    },
 ];
 
 const {version} = require('../package.json');
